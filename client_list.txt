@@ -1,0 +1,8 @@
+Ýstemci adresi: ('127.0.0.1', 53480) --- Baglanma saati: 2020-06-05 20:43:37.037678 
+Ýstemci adresi: ('127.0.0.1', 53486) --- Baglanma saati: 2020-06-05 20:44:47.805504 
+Ýstemci adresi: ('127.0.0.1', 53609) --- Baglanma saati: 2020-06-05 21:00:27.349145 
+Ýstemci adresi: ('127.0.0.1', 53648) --- Baglanma saati: 2020-06-05 21:02:56.247066 
+Ýstemci adresi: ('127.0.0.1', 53786) --- Baglanma saati: 2020-06-05 21:24:02.090178 
+Ýstemci baðlantý adresi: ('127.0.0.1', 54973) --- Baðlantý saati: 2020-06-05 22:55:58.006360 
+Ýstemci baðlantý adresi: ('127.0.0.1', 54979) --- Baðlantý saati: 2020-06-05 22:56:47.879354 
+Ýstemci baðlantý adresi: ('127.0.0.1', 55222) --- Baðlantý saati: 2020-06-05 23:18:38.629307 
